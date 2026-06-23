@@ -31,5 +31,6 @@ public class anagram{
             System.out.println("The given strings are anagrams.");
         else
              System.out.println("The given strings are not anagrams.");
+            sc.close();
     }
 }
