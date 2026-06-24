@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class removeDup {
+public class stringremoveDup {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter a string:");
